@@ -17,7 +17,7 @@ set PATH=F:\GreenSoft\android-sdk\platform-tools;%PATH%
 set HOME=%cd%
 
 
-bash setup_env.sh
+bash --login -i -c "sh setup_env.sh"
 
 pause
 exit
