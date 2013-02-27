@@ -11,6 +11,9 @@ set PATH=D:\MinGW\msys\1.0\bin;D:\MinGW\msys\1.0\local\bin;D:\MingW\bin;%PATH%
 
 set PATH=D:\cygwin\bin;%PATH%
 
+set PATH=F:\GreenSoft\android-sdk\tools;%PATH%
+set PATH=F:\GreenSoft\android-sdk\platform-tools;%PATH%
+
 set HOME=%cd%
 
 
